@@ -6,7 +6,7 @@
 1.  `git init` 初始仓库
 2.  `get pull https://gitee.com/CodeMan-L/imitate-bilibili.git` 获取代码
 #### JSON 数据说明
-1. 
+1. tieleTop.json 顶部导航栏数据
 2. 
 3. 
 4. 

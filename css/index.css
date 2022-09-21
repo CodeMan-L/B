@@ -1,0 +1,66 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+body{
+    background-color: #f1f2f3;
+    text-align: center;
+}
+#CenterBox{
+    position: relative;
+    text-align: center;
+    display: inline-block;
+    max-width: 2560px;
+    min-width: 1100px;
+    width: 100%;
+    background-color: #fff;
+    overflow:hidden;
+}
+header{
+    width: 100%;
+}
+footer{
+    width: 100%;
+    background-color: #f6f7f8;
+}
+.header_banner{
+    z-index: 0;
+    /* 弹性布局 */
+    display: flex;
+    /* 对其方式 */
+    justify-content: center;    /* 居中对齐 */
+    margin: 0 auto;
+    min-width: 1000px;
+    min-height: 155px;
+    height: 9.375vw; /* %是根据父级来设置大小 [父级大小=100%] vw是根据浏览器视窗来设置大小 [视窗大小=100vw] */
+    max-height: 240px;/* 最大高度限制 */
+    background-color: #e3e5e7;
+    background-position: center 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.header_banner>img{
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: inherit;
+}
+.mian_lazy{
+    max-width: 2078px;
+    min-width: 1111px;
+}
+.logoB{
+    position: absolute;
+    margin-bottom: 10px;
+    z-index: 1;
+    display: inline-block;
+    min-height: 60px;
+    width: 180px;
+    height: 50%;
+    text-align: left;
+    left: 30px;
+    bottom: 15px;
+}
+.logoB img{
+    display: block;
+}

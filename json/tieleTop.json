@@ -1,0 +1,49 @@
+[{
+    "id":1,
+    "show":0,
+    "til":"首页",
+    "move":1,
+    "moveData":"home.josn"
+},{
+    "id":2,
+    "show":1,
+    "til":"番剧",
+    "move":0,
+    "moveData":"home.josn"
+},{
+    "id":3,
+    "show":1,
+    "til":"直播",
+    "move":1,
+    "moveData":"home.josn"
+},{
+    "id":4,
+    "show":1,
+    "til":"游戏中心",
+    "move":1,
+    "moveData":"home.josn"
+},{
+    "id":5,
+    "show":1,
+    "til":"会员购",
+    "move":0,
+    "moveData":"home.josn"
+},{
+    "id":6,
+    "show":1,
+    "til":"漫画",
+    "move":1,
+    "moveData":"home.josn"
+},{
+    "id":7,
+    "show":1,
+    "til":"赛事",
+    "move":0,
+    "moveData":"home.josn"
+},{
+    "id":8,
+    "show":1,
+    "til":"下载客户端",
+    "move":1,
+    "moveData":"home.josn"
+}]
