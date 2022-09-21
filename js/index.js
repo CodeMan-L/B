@@ -20,10 +20,6 @@ let bili = (function () {
 
     return bodytype;
     }
-    let a ;
-    a.onclick = function(e){
-e.target.
-    }
     return {
         init() {
             getWinW();
