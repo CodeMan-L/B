@@ -7,16 +7,16 @@
 2.  `get pull https://gitee.com/CodeMan-L/imitate-bilibili.git` 获取代码
 #### JSON 数据说明
 1. tieleTop.json 顶部导航栏数据
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. animation.json 动画
-9. fancyOpera.json 番剧
-10. inChina.json 国创
-11. liveBroadcast.json 直播
+2. liveTil.josn 导航栏直播
+3. gameHome.josn 导航栏游戏中心
+4. cartoonTil.json 导航栏漫画
+5. searchTil.json 搜索
+6. userLogin.json 用户登录
+7. newsTil.json 导航栏消息
+8. dynamicTil.json 导航栏动态
+9. CollectionTil.json 导航栏收藏
+10. historyTil.json 导航栏历史
+11. contributeTil.json 导航栏投稿
 12. dance.json 舞蹈
 13. music.json 音乐
 14. deliciousFood.json 美食
@@ -39,3 +39,7 @@
 32. TVplay.json 电视剧
 33. Movies.json 影视
 34. documentary.json 纪录片
+35. animation.json 动画
+36. fancyOpera.json 番剧
+37. inChina.json 国创
+38. liveBroadcast.json 直播

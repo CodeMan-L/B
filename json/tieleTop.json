@@ -3,47 +3,95 @@
     "show":0,
     "til":"首页",
     "move":1,
+    "logo":"bi bi-chevron-down",
     "moveData":"home.josn"
 },{
     "id":2,
-    "show":1,
     "til":"番剧",
     "move":0,
-    "moveData":"home.josn"
+    "moveData":""
 },{
     "id":3,
-    "show":1,
     "til":"直播",
     "move":1,
-    "moveData":"home.josn"
+    "moveData":"liveTil.josn"
 },{
     "id":4,
-    "show":1,
     "til":"游戏中心",
     "move":1,
-    "moveData":"home.josn"
+    "moveData":"gameHome.josn"
 },{
     "id":5,
-    "show":1,
     "til":"会员购",
     "move":0,
-    "moveData":"home.josn"
+    "moveData":""
 },{
     "id":6,
-    "show":1,
     "til":"漫画",
     "move":1,
-    "moveData":"home.josn"
+    "moveData":"cartoonTil.josn"
 },{
     "id":7,
-    "show":1,
     "til":"赛事",
     "move":0,
-    "moveData":"home.josn"
+    "moveData":""
 },{
     "id":8,
-    "show":1,
     "til":"下载客户端",
     "move":1,
-    "moveData":"home.josn"
+    "logo":"bi bi-download",
+    "moveData":""
+},{
+    "id":9,
+    "til":"搜索",
+    "move":2,
+    "logo":"bi bi-search",
+    "moveData":"searchTil.json"
+},{
+    "id":10,
+    "til":"登录",
+    "move":1,
+    "moveData":"userLogin.json"
+},{
+    "id":11,
+    "til":"大会员",
+    "logo":"bi bi-yin-yang",
+    "move":1,
+    "moveData":""
+},{
+    "id":12,
+    "til":"消息",
+    "logo":"bi bi-envelope",
+    "move":1,
+    "moveData":"newsTil.json"
+},{
+    "id":13,
+    "til":"动态",
+    "logo":"bi bi-eyeglasses",
+    "move":1,
+    "moveData":"dynamicTil.json"
+},{
+    "id":14,
+    "til":"收藏",
+    "logo":"bi bi-star",
+    "move":1,
+    "moveData":"CollectionTil.json"
+},{
+    "id":15,
+    "til":"历史",
+    "logo":"bi bi-clock",
+    "move":1,
+    "moveData":"historyTil.json"
+},{
+    "id":16,
+    "til":"创作中心",
+    "logo":"bi bi-lightbulb",
+    "move":0,
+    "moveData":""
+},{
+    "id":17,
+    "til":"投稿",
+    "logo":"bi bi-send",
+    "move":1,
+    "moveData":"contributeTil.json"
 }]
