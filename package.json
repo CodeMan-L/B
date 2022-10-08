@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "bootstrap-icons": "^1.9.1"
+  },
+  "name": "imitate-bilibili",
+  "description": "模仿实现哔哩哔哩的网站首页和部分功能\r #### 安装教程",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/CodeMan-L/imitate-bilibili.git"
+  },
+  "author": "Galaxy",
+  "license": "ISC"
+}
