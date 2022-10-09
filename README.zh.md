@@ -43,3 +43,4 @@
 36. fancyOpera.json 番剧
 37. inChina.json 国创
 38. liveBroadcast.json 直播
+39. headerTable.json 首页头部分类
